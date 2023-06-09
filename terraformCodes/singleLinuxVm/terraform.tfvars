@@ -1,0 +1,8 @@
+rgName           = "rg-intern-project-001"
+vnetName         = "vnet-ip-001"
+subnetName       = "snet-ip-001"
+size             = "Standard_D2s_v5"
+location         = "East US"
+vmName           = "multiTfLip"
+adminName        = "terraformUser"
+adminPw          = "hli(kjjUI)8KHI!!@#"

@@ -1,0 +1,8 @@
+rgName           = "rg-intern-project-001"
+vnetName         = "vnet-ip-001"
+subnetName       = "snet-ip-001"
+size             = "Standard_D4s_v5"
+location         = "East US"
+vmName           = "DSVWDITEUS1001"
+adminName        = "terraformUser"
+adminPw          = "hliseh&908KHI!!@#"
